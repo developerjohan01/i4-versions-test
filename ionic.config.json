@@ -1,5 +1,7 @@
 {
   "name": "i4-versions-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
