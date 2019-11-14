@@ -12,7 +12,6 @@ import {
 export class Tab2Page implements OnInit {
     @ViewChild('iframeContainer', {static: true}) iframeContainer: ElementRef;
     @ViewChild('iframeContainer2', {read: ElementRef, static: true}) iframeContainer2: ElementRef;
-    // @ViewChild('iframeContainer2', {static: false}) iframeContainer2: ElementRef;
 
     constructor() {
         console.log('constructor');
