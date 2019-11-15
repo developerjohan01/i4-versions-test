@@ -33,6 +33,7 @@
     "@ionic-native/sqlite": "^5.16.0",
     "@ionic-native/status-bar": "^5.0.0",
     "@ionic/angular": "^4.11.4",
+    "Freshchat": "git+https://github.com/techaffinity/freshchat-phonegap.git",
     "cordova-clipboard": "^1.3.0",
     "cordova-ios": "^5.0.1",
     "cordova-plugin-androidx": "^1.0.2",
@@ -41,6 +42,7 @@
     "cordova-plugin-camera": "^4.1.0",
     "cordova-plugin-contacts": "^3.0.1",
     "cordova-plugin-firebasex": "^7.0.1",
+    "cordova-plugin-freshchat": "https://github.com/techaffinity/freshchat-phonegap.git",
     "cordova-plugin-inappbrowser": "^3.1.0",
     "cordova-plugin-ionic": "^5.4.5",
     "cordova-sqlite-storage": "^3.4.0",
@@ -99,6 +101,7 @@
         "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "true",
         "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true"
       },
+      "cordova-plugin-freshchat": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-ionic": {
         "APP_ID": "06efe492",
